@@ -5,7 +5,7 @@ import { FiTrash } from "react-icons/fi"
 
 
 class Todolist extends Component {
-    // ვერ გავიგე რაუნდა გადავარენდერო, იქნებ გავიაროთ მეორე თვის მესამე კვირის მასალა
+    // ვერ გავიგე რაუნდა გადავარენდერო, იქნებ გავიაროთ მეორე თვის მესამე კვირის მასალა დავალებითურთ
     
     constructor(props) {
         super(props)
